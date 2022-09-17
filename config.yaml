@@ -22,7 +22,7 @@ languages:
       # preloader: false
       navbarlogo:
       # Logo (from static/images/logos/___)
-        image: logos/logo_en-ch.svg
+        image: logos/logo.svg
         link: /
         # Default width/height. Uncomment if you need to change
         # width: 112
@@ -42,7 +42,7 @@ languages:
         # Where the main hero button links to
         buttonlink: "#"
         # Hero image (from static/images/___)
-        image: illustrations/worker.svg
+        image: illustrations/banner.svg
         # Footer logos (from static/images/logos/clients/___.svg)
         #clientlogos:
         #- systek
@@ -74,7 +74,7 @@ languages:
         url: /
       sidebar:
         # Logo (from /images/logos/___.svg)
-        logo: rvclogo
+        logo: logo
         sections:
         - title: User
           icon: user
@@ -140,9 +140,9 @@ languages:
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
           icon: heart
       section3:
-        title: One platform
+        title: One Van
         subtitle: To rule them all
-        image: illustrations/mockups/app-mockup.png
+        image: illustrations/van.jpg
         buttonText: Get started
         buttonLink: "#"
       section4:
@@ -164,7 +164,7 @@ languages:
       section5: true
       footer:
         # Logo (from /images/logos/___)
-        logo: rvclogo.svg
+        logo: logo.svg
         # Social Media Title
         socialmediatitle: Follow Us
         # Social media links (GitHub, Twitter, etc.). All are optional.

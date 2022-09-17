@@ -6225,7 +6225,7 @@ Navbar
     background: #fff;
     box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.12); }
     .navbar.is-fresh.is-fixed a {
-      color: #444F60; }
+      color: #66676b; }
       .navbar.is-fresh.is-fixed a:hover {
         color: #2385C6; }
 
@@ -6368,7 +6368,6 @@ img.pushed-image {
 .media.icon-box {
   border-top: none !important; }
   .media.icon-box .media-content .content p span {
-    height: 60px;
     display: block; }
   .media.icon-box .media-content .content p .icon-box-title {
     color: #444F60;
@@ -6415,7 +6414,7 @@ footer.footer-dark {
     line-height: 40px;
     font-size: 1.1rem; }
     footer.footer-dark .footer-column ul.link-list a {
-      color: #98a9c3;
+      color: #EFF4F7;
       font-weight: 400;
       transition: all 0.5s; }
     footer.footer-dark .footer-column ul.link-list :hover {
@@ -6527,7 +6526,7 @@ Cards and Card content styles
     font-weight: 600;
     color: #444F60; }
   .feature-card .card-icon img {
-    height: 180px;
+    height: 200px;
     margin-top: 20px; }
   .feature-card .card-text {
     padding: 0 40px; }
