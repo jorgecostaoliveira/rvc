@@ -6526,7 +6526,7 @@ Cards and Card content styles
     font-weight: 600;
     color: #444F60; }
   .feature-card .card-icon img {
-    height: 200px;
+    height: 120px;
     margin-top: 20px; }
   .feature-card .card-text {
     padding: 0 40px; }

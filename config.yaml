@@ -111,17 +111,17 @@ languages:
         subtitle: with great responsibility
         tiles:
         - title: 24H Hospital
-          icon: building
+          icon: building_noborder
           text: This is some explanatory text that is on two rows
           url: /
           buttonText: Read More
         - title: Transportation
-          icon: van
+          icon: van_noborder
           text: This is some explanatory text that is on two rows
           url: /
           buttonText: Read More
         - title: Lorem Ipsum
-          icon: sheet
+          icon: sheet_noborder
           text: This is some explanatory text that is on two rows
           url: /
           buttonText: Read More
